@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/anirudhit/tailwind-css-waitlist-page/issues"
   },
-  "homepage": "https://github.com/anirudhit/tailwind-css-waitlist-page#readme"
+  "homepage": "https://github.com/anirudhit/tailwind-css-waitlist-page#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
 }
